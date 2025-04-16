@@ -1,1 +1,1 @@
-[Link(https://clsx.netlify.app)]
+https://clsx.netlify.app/
